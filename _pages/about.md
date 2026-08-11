@@ -92,7 +92,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🎖 Honors and Awards
 - *2023*, Alibaba Outstanding Intern of the Year (15 candidates)
-- *2022*, Best Paper Award Runner-up, TRUSTLOG-CIKM 2022 
+- *2022*, Best Paper Award Runner-up, TrustLOG-CIKM 2022 
 - *2016 - 2026*, Several Academic Scholarships
 
 # 📖 Educations
