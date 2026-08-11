@@ -34,7 +34,35 @@ My research interest includes neural machine translation and computer vision. I 
       <a href="xxx" target="_blank">[Code]</a><br>
       <b style="text-decoration:underline;">Senrong Xu</b>, Yuan Yao, Liangyue Li, Wei Yang, Feng Xu, Hanghang Tong <br>
       <span style="color:gray; font-style:italic;">The first workshop on Trustworthy Learning on Graphs (TrustLOG-CIKM 2022)</span>
-</div>
+
+- <div style="flex:1;">
+      <b style="font-size:17px;">Detecting Topology Attacks against Graph Neural Networks</b>
+      <a href="xxx" target="_blank" style="margin-left:8px;">[Paper]</a>
+      <a href="xxx" target="_blank">[Code]</a><br>
+      <b style="text-decoration:underline;">Senrong Xu</b>, Yuan Yao, Liangyue Li, Wei Yang, Feng Xu, Hanghang Tong <br>
+      <span style="color:gray; font-style:italic;">The first workshop on Trustworthy Learning on Graphs (TrustLOG-CIKM 2022)</span>
+
+- <div style="flex:1;">
+      <b style="font-size:17px;">On the Vulnerability of Graph Learning-based Collaborative Filtering</b>
+      <a href="xxx" target="_blank" style="margin-left:8px;">[Paper]</a>
+      <a href="xxx" target="_blank">[Code]</a><br>
+      <b style="text-decoration:underline;">Senrong Xu</b>, Liangyue Li, Zenan Li, Yuan Yao, Feng Xu, Zulong Chen, Quan Lu, Hanghang Tong <br>
+      <span style="color:gray; font-style:italic;">ACM Transactions on Information Systems (TOIS)</span>
+
+- <div style="flex:1;">
+      <b style="font-size:17px;">MUSENET: Multi-Scenario Learning for Repeat-Aware Personalized Recommendation</b>
+      <a href="xxx" target="_blank" style="margin-left:8px;">[Paper]</a>
+      <a href="xxx" target="_blank">[Code]</a><br>
+      <b style="text-decoration:underline;">Senrong Xu</b>, Liangyue Li, Yuan Yao, Zulong Chen, Han Wu, Quan Lu, Hanghang Tong <br>
+      <span style="color:gray; font-style:italic;">Proceedings of the sixteenth ACM International Conference on Web Search and Data Mining (WSDM'23)</span>
+
+- <div style="flex:1;">
+      <b style="font-size:17px;">Detecting Topology Attacks against Graph Neural Networks</b>
+      <a href="xxx" target="_blank" style="margin-left:8px;">[Paper]</a>
+      <a href="xxx" target="_blank">[Code]</a><br>
+      <b style="text-decoration:underline;">Senrong Xu</b>, Yuan Yao, Liangyue Li, Wei Yang, Feng Xu, Hanghang Tong <br>
+      <span style="color:gray; font-style:italic;">The first workshop on Trustworthy Learning on Graphs (TrustLOG-CIKM'22)</span>
+
 
 
 
