@@ -43,8 +43,8 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2016 - 2026* Several Academic Scholarships
+- *2021.10*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2016 - 2026*, Several Academic Scholarships
 
 # 📖 Educations
 - *2023.09 - 2026.04 (now)*, Ph.D. in Computer Science, Nanjing University, Nanjing, China
