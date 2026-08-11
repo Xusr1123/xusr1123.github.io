@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "xsr-hompage"
-description              : "Ph.D. in Computer Science // Nanjing University"
+description              : "Ph.D. in Computer Science Nanjing University"
 repository               : "Xusr1123/xusr1123.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Senrong Xu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Nanjing University"
+  bio              : ""
   location         : "Nanjing, China"
   employer         :
   pubmed           : 
