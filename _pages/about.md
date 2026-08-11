@@ -45,7 +45,7 @@ My research interest includes neural machine translation and computer vision. I 
 - <h4>Detecting topology attacks against graph neural networks</h4>
   **Senrong Xu**, Yuan Yao, Liangyue Li, Wei Yang, Feng Xu, Hanghang Tong <br> [pdf] [code] 
 
-<span style="font-size: 48px;">这是24像素大小的文字</span>
+## 这是一个标题 <small>（这是副标题或补充信息）</small>
 
 # 🎖 Honors and Awards
 - *2023*, Alibaba Outstanding Intern of the Year (Top 15)
