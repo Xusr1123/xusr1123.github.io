@@ -29,39 +29,47 @@ My research interest includes neural machine translation and computer vision. I 
 # 📝 Publications 
 
 - <div style="flex:1;">
-      <b style="font-size:17px;">Detecting Topology Attacks against Graph Neural Networks</b>
+      <b style="font-size:17px;">The Entropic Overhead of Conformal Correction</b>
       <a href="xxx" target="_blank" style="margin-left:8px;">[Paper]</a>
       <a href="xxx" target="_blank">[Code]</a><br>
-      <b style="text-decoration:underline;">Senrong Xu</b>, Yuan Yao, Liangyue Li, Wei Yang, Feng Xu, Hanghang Tong <br>
-      <span style="color:gray; font-style:italic;">The first workshop on Trustworthy Learning on Graphs (TrustLOG-CIKM 2022)</span>
+      <b style="text-decoration:underline;">Senrong Xu</b>, Tianyu Wang, Zenan Li, Yuan Yao, Taolue Chen, Feng Xu, Xiaoxing Ma <br>
+      <span style="color:gray; font-style:italic;">ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026)</span>
+      
 
 - <div style="flex:1;">
-      <b style="font-size:17px;">Detecting Topology Attacks against Graph Neural Networks</b>
+      <b style="font-size:17px;">Fair Conformal Classification via Learning Representation-Based Groups</b>
       <a href="xxx" target="_blank" style="margin-left:8px;">[Paper]</a>
       <a href="xxx" target="_blank">[Code]</a><br>
-      <b style="text-decoration:underline;">Senrong Xu</b>, Yuan Yao, Liangyue Li, Wei Yang, Feng Xu, Hanghang Tong <br>
-      <span style="color:gray; font-style:italic;">The first workshop on Trustworthy Learning on Graphs (TrustLOG-CIKM 2022)</span>
+      <b style="text-decoration:underline;">Senrong Xu</b>, Yanke Zhou, Yuhao Tan, Zenan Li, Yuan Yao, Taolue Chen, Feng Xu, Xiaoxing Ma <br>
+      <span style="color:gray; font-style:italic;">International Conference on Learning Representations (ICLR 2026)</span>
+
+- <div style="flex:1;">
+      <b style="font-size:17px;">On the Heterophily of Program Graphs: A Case Study of Graph-based Type Inference</b>
+      <a href="xxx" target="_blank" style="margin-left:8px;">[Paper]</a>
+      <a href="xxx" target="_blank">[Code]</a><br>
+      <b style="text-decoration:underline;">Senrong Xu</b>, Jiamei Shen, Yunfan Li, Yuan Yao, Ping Yu, Feng Xu, Xiaoxing Ma <br>
+      <span style="color:gray; font-style:italic;">Proceedings of the fifteenth Asia-Pacific Symposium on Internetware 2024</span>
 
 - <div style="flex:1;">
       <b style="font-size:17px;">On the Vulnerability of Graph Learning-based Collaborative Filtering</b>
       <a href="xxx" target="_blank" style="margin-left:8px;">[Paper]</a>
       <a href="xxx" target="_blank">[Code]</a><br>
       <b style="text-decoration:underline;">Senrong Xu</b>, Liangyue Li, Zenan Li, Yuan Yao, Feng Xu, Zulong Chen, Quan Lu, Hanghang Tong <br>
-      <span style="color:gray; font-style:italic;">ACM Transactions on Information Systems (TOIS)</span>
+      <span style="color:gray; font-style:italic;">ACM Transactions on Information Systems (TOIS 2023)</span>
 
 - <div style="flex:1;">
       <b style="font-size:17px;">MUSENET: Multi-Scenario Learning for Repeat-Aware Personalized Recommendation</b>
       <a href="xxx" target="_blank" style="margin-left:8px;">[Paper]</a>
       <a href="xxx" target="_blank">[Code]</a><br>
       <b style="text-decoration:underline;">Senrong Xu</b>, Liangyue Li, Yuan Yao, Zulong Chen, Han Wu, Quan Lu, Hanghang Tong <br>
-      <span style="color:gray; font-style:italic;">Proceedings of the sixteenth ACM International Conference on Web Search and Data Mining (WSDM'23)</span>
+      <span style="color:gray; font-style:italic;">Proceedings of the sixteenth ACM International Conference on Web Search and Data Mining (WSDM 2023)</span>
 
 - <div style="flex:1;">
       <b style="font-size:17px;">Detecting Topology Attacks against Graph Neural Networks</b>
       <a href="xxx" target="_blank" style="margin-left:8px;">[Paper]</a>
       <a href="xxx" target="_blank">[Code]</a><br>
       <b style="text-decoration:underline;">Senrong Xu</b>, Yuan Yao, Liangyue Li, Wei Yang, Feng Xu, Hanghang Tong <br>
-      <span style="color:gray; font-style:italic;">The first workshop on Trustworthy Learning on Graphs (TrustLOG-CIKM'22)</span>
+      <span style="color:gray; font-style:italic;">The first workshop on Trustworthy Learning on Graphs (TrustLOG-CIKM 2022)</span>
 
 
 
