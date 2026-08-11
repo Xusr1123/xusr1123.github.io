@@ -90,7 +90,7 @@ My research interest includes neural machine translation and computer vision. I 
         <b style="text-decoration:underline;">Senrong Xu</b>, Yuan Yao, Liangyue Li, Wei Yang, Feng Xu, Hanghang Tong
       </span><br>
       <span style="color:#444444; font-style:italic;">Workshop on Trustworthy Learning on Graphs (TrustLOG-CIKM 2022)</span>
-</div>
+
 
 
 
