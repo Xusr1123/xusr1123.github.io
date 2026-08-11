@@ -45,12 +45,7 @@ My research interest includes neural machine translation and computer vision. I 
 - <h4>Detecting topology attacks against graph neural networks</h4>
   **Senrong Xu**, Yuan Yao, Liangyue Li, Wei Yang, Feng Xu, Hanghang Tong <br> [pdf] [code] 
 
-Planning to Hammer: Difficulty-Aware Decomposition for Automating Rocq Proofs
-[PDF] [Code]
-
-Ning Zhang, Nongyu Di, Zenan Li†, Yuan Yao, and Xiaoxing Ma
-
-ACM SIGPLAN Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA'26)
+<span style="font-size: 24px;">这是24像素大小的文字</span>
 
 # 🎖 Honors and Awards
 - *2023*, Alibaba Outstanding Intern of the Year (Top 15)
