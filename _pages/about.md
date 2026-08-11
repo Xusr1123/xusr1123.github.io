@@ -42,7 +42,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-- <h5>**Detecting topology attacks against graph neural networks**</h5> [pdf] [code]<br>**Senrong Xu**, Yuan Yao, Liangyue Li, Wei Yang, Feng Xu, Hanghang Tong
+- <h4>**Detecting topology attacks against graph neural networks**</h4> [pdf] [code]<br>**Senrong Xu**, Yuan Yao, Liangyue Li, Wei Yang, Feng Xu, Hanghang Tong
 
 # 🎖 Honors and Awards
 - *2023*, Alibaba Outstanding Intern of the Year (Top 15)
