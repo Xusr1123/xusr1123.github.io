@@ -56,7 +56,7 @@ My research interest includes neural machine translation and computer vision. I 
       <b style="font-size:17px;">Enhancing Graph Anomaly Detection with Contrastive Pre-training and Pseudo-Label Learning</b>
       <a href="xxx" target="_blank" style="margin-left:8px;">[Paper]</a>
       <a href="xxx" target="_blank">[Code]</a><br>
-      <b style="text-decoration:underline;">Wei Liu, Yuhe An, <b style="text-decoration:underline;">Senrong Xu</b>, Xingshen Wei, Weiyong Yang <br>
+      Wei Liu, Yuhe An, <b style="text-decoration:underline;">Senrong Xu</b>, Xingshen Wei, Weiyong Yang <br>
       <span style="color:gray; font-style:italic;">Pacific Rim International Conference on Artificial Intelligence (PRICAI 2025)</span>
 
 
