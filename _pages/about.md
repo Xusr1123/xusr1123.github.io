@@ -42,8 +42,10 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
+- **Detecting topology attacks against graph neural networks**, <ins>Senrong Xu<ins>, Yuhao Tan, Yanke Zhou, Guangyuan Wu, Zenan Li, Yuan Yao, Taolue Chen, Feng Xu, Xiaoxing Ma.
+
 # 🎖 Honors and Awards
-- *2022*, Alibaba Outstanding Intern of the Year (Top 15)
+- *2023*, Alibaba Outstanding Intern of the Year (Top 15)
 - *2022*, Best Paper Award Runner-up, TRUSTLOG-CIKM 2022 
 - *2016 - 2026*, Several Academic Scholarships
 
