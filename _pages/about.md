@@ -48,7 +48,7 @@ My research interest includes neural machine translation and computer vision. I 
       <b style="font-size:17px;">Robustness Evaluation and Enhancement of LLMs in Code Generation: An Empirical Study</b>
       <a href="xxx" target="_blank" style="margin-left:8px;">[Paper]</a>
       <a href="xxx" target="_blank">[Code]</a><br>
-      Jincheng Liu, <b style="text-decoration:underline;">Senrong Xu</b>, Yuan Yao, Yibin Shen, Yicong Zhao, Xiaorui Zhu, Ping Yu, Feng Xu & Xiaoxing Ma <br>
+      Jincheng Liu, <b style="text-decoration:underline;">Senrong Xu</b>, Yuan Yao, Yibin Shen, Yicong Zhao, Xiaorui Zhu, Ping Yu, Feng Xu, Xiaoxing Ma <br>
       <span style="color:gray; font-style:italic;">Empirical Software Engineering (ESE 2026)</span>
 
 
