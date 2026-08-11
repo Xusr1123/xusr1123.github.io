@@ -45,7 +45,7 @@ My research interest includes neural machine translation and computer vision. I 
 - <h4>Detecting topology attacks against graph neural networks</h4>
   **Senrong Xu**, Yuan Yao, Liangyue Li, Wei Yang, Feng Xu, Hanghang Tong <br> [pdf] [code] 
 
-<div style="max-width: 780px; margin: 0 auto;">
+<div style="max-width: 780px; margin: 0;">
 
   <div class="pub-row" style="display:flex; align-items:flex-start; margin-bottom:25px;">
 
