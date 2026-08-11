@@ -45,7 +45,7 @@ My research interest includes neural machine translation and computer vision. I 
 - <h4>Detecting topology attacks against graph neural networks</h4>
   **Senrong Xu**, Yuan Yao, Liangyue Li, Wei Yang, Feng Xu, Hanghang Tong <br> [pdf] [code] 
 
-<b style="font-size:17px;">ReaSon: Reinforced Causal Search with Information Bottleneck for Video Understanding</b><br>
+<b style="font-size:57px;">ReaSon: Reinforced Causal Search with Information Bottleneck for Video Understanding</b><br>
 Yuan Zhou (Supervisor), <b>Litao Hua</b>, Shilong Jin, Wentao Huang, Haoran Duan <br>
 
 <span style="color:#C62828; font-weight:600;">AAAI'26. CCF-A</span> <br>
