@@ -43,6 +43,15 @@ My research interest includes neural machine translation and computer vision. I 
       <b style="text-decoration:underline;">Senrong Xu</b>, Yanke Zhou, Yuhao Tan, Zenan Li, Yuan Yao, Taolue Chen, Feng Xu, Xiaoxing Ma <br>
       <span style="color:gray; font-style:italic;">International Conference on Learning Representations (ICLR 2026)</span>
 
+
+- <div style="flex:1;">
+      <b style="font-size:17px;">Robustness Evaluation and Enhancement of LLMs in Code Generation: An Empirical Study</b>
+      <a href="xxx" target="_blank" style="margin-left:8px;">[Paper]</a>
+      <a href="xxx" target="_blank">[Code]</a><br>
+      Jincheng Liu, <b style="text-decoration:underline;">Senrong Xu</b>, Yuan Yao, Yibin Shen, Yicong Zhao, Xiaorui Zhu, Ping Yu, Feng Xu & Xiaoxing Ma <br>
+      <span style="color:gray; font-style:italic;">Empirical Software Engineering (ESE 2026)</span>
+
+
 - <div style="flex:1;">
       <b style="font-size:17px;">On the Heterophily of Program Graphs: A Case Study of Graph-based Type Inference</b>
       <a href="xxx" target="_blank" style="margin-left:8px;">[Paper]</a>
@@ -70,7 +79,6 @@ My research interest includes neural machine translation and computer vision. I 
       <a href="xxx" target="_blank">[Code]</a><br>
       <b style="text-decoration:underline;">Senrong Xu</b>, Yuan Yao, Liangyue Li, Wei Yang, Feng Xu, Hanghang Tong <br>
       <span style="color:gray; font-style:italic;">Workshop on Trustworthy Learning on Graphs (TrustLOG-CIKM 2022)</span>
-
 
 
 
