@@ -48,7 +48,7 @@ My research interest includes neural machine translation and computer vision. I 
       <a href="xxx" target="_blank" style="margin-left:8px;">[Paper]</a>
       <a href="xxx" target="_blank">[Code]</a><br>
       <b style="text-decoration:underline;">Senrong Xu</b>, Jiamei Shen, Yunfan Li, Yuan Yao, Ping Yu, Feng Xu, Xiaoxing Ma <br>
-      <span style="color:gray; font-style:italic;">Proceedings of the fifteenth Asia-Pacific Symposium on Internetware 2024</span>
+      <span style="color:gray; font-style:italic;">Asia-Pacific Symposium on Internetware 2024</span>
 
 - <div style="flex:1;">
       <b style="font-size:17px;">On the Vulnerability of Graph Learning-based Collaborative Filtering</b>
@@ -62,26 +62,20 @@ My research interest includes neural machine translation and computer vision. I 
       <a href="xxx" target="_blank" style="margin-left:8px;">[Paper]</a>
       <a href="xxx" target="_blank">[Code]</a><br>
       <b style="text-decoration:underline;">Senrong Xu</b>, Liangyue Li, Yuan Yao, Zulong Chen, Han Wu, Quan Lu, Hanghang Tong <br>
-      <span style="color:gray; font-style:italic;">Proceedings of the sixteenth ACM International Conference on Web Search and Data Mining (WSDM 2023)</span>
+      <span style="color:gray; font-style:italic;">ACM International Conference on Web Search and Data Mining (WSDM 2023)</span>
 
 - <div style="flex:1;">
       <b style="font-size:17px;">Detecting Topology Attacks against Graph Neural Networks</b>
       <a href="xxx" target="_blank" style="margin-left:8px;">[Paper]</a>
       <a href="xxx" target="_blank">[Code]</a><br>
       <b style="text-decoration:underline;">Senrong Xu</b>, Yuan Yao, Liangyue Li, Wei Yang, Feng Xu, Hanghang Tong <br>
-      <span style="color:gray; font-style:italic;">The first workshop on Trustworthy Learning on Graphs (TrustLOG-CIKM 2022)</span>
-
-
-
-
-
-
+      <span style="color:gray; font-style:italic;">Workshop on Trustworthy Learning on Graphs (TrustLOG-CIKM 2022)</span>
 
 
 
 
 # 🎖 Honors and Awards
-- *2023*, Alibaba Outstanding Intern of the Year (Top 15)
+- *2023*, Alibaba Outstanding Intern of the Year (15 candidates)
 - *2022*, Best Paper Award Runner-up, TRUSTLOG-CIKM 2022 
 - *2016 - 2026*, Several Academic Scholarships
 
