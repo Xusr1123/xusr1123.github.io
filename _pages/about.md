@@ -49,13 +49,13 @@ My research interest includes neural machine translation and computer vision. I 
 
   <div class="pub-row" style="display:flex; align-items:flex-start; margin-bottom:25px;">
 
-    <div style="flex:1;">
-      <b style="font-size:17px;">ReaSon: Reinforced Causal Search with Information Bottleneck for Video Understanding</b><br>
-      Yuan Zhou (Supervisor), <b>Litao Hua</b>, Shilong Jin, Wentao Huang, Haoran Duan <br>
-      <span style="color:#C62828; font-weight:600;">AAAI'26. CCF-A</span> <br>
-      <a href="https://arxiv.org/abs/2511.12530" target="_blank">[Paper]</a>
-      <a href="https://github.com/robin-hlt/AAAI26-ReaSon" target="_blank" style="margin-left:8px;">[Code]</a>
-    </div>
+  <div style="flex:1;">
+        <b style="font-size:17px;">Detecting Topology Attacks against Graph Neural Networks</b>
+        <a href="https://arxiv.org/abs/2511.12530" target="_blank">[Paper]</a>
+        <a href="https://github.com/robin-hlt/AAAI26-ReaSon" target="_blank" style="margin-left:8px;">[Code]</a><br>
+        <b style="text-decoration:underline;">Senrong Xu</b>, Yuan Yao, Liangyue Li, Wei Yang, Feng Xu, Hanghang Tong <br>
+        <span style="color:gray; font-style:italic;">AAAI'26. CCF-A</span> <br>
+  </div>
 
   </div>
 
