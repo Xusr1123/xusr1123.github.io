@@ -51,10 +51,10 @@ My research interest includes neural machine translation and computer vision. I 
 
   <div style="flex:1;">
         <b style="font-size:17px;">Detecting Topology Attacks against Graph Neural Networks</b>
-        <a href="https://arxiv.org/abs/2511.12530" target="_blank">[Paper]</a>
-        <a href="https://github.com/robin-hlt/AAAI26-ReaSon" target="_blank" style="margin-left:8px;">[Code]</a><br>
+        <a href="https://arxiv.org/abs/2511.12530" target="_blank" style="margin-right:8px;">[Paper]</a>
+        <a href="https://github.com/robin-hlt/AAAI26-ReaSon" target="_blank"">[Code]</a><br>
         <b style="text-decoration:underline;">Senrong Xu</b>, Yuan Yao, Liangyue Li, Wei Yang, Feng Xu, Hanghang Tong <br>
-        <span style="color:gray; font-style:italic;">AAAI'26. CCF-A</span> <br>
+        <span style="color:gray; font-style:italic;">The first workshop on Trustworthy Learning on Graphs (TrustLOG-CIKM 2022)</span> <br>
   </div>
 
   </div>
