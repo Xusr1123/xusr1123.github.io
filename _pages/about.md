@@ -65,10 +65,8 @@ xxx.
       <b style="font-size:17px;">Detecting Topology Attacks against Graph Neural Networks</b>
       <a href="xxx" target="_blank" style="margin-left:8px;">[Paper]</a>
       <a href="xxx" target="_blank">[Code]</a><br>
-      <span style="color:#1f1f1f;">
-        <b style="text-decoration:underline;">Senrong Xu</b>, Yuan Yao, Liangyue Li, Wei Yang, Feng Xu, Hanghang Tong
-      </span><br>
-      <span style="color:#444444; font-style:italic;">Workshop on Trustworthy Learning on Graphs (TrustLOG-CIKM 2022)</span>
+      <b style="text-decoration:underline;">Senrong Xu</b>, Yuan Yao, Liangyue Li, Wei Yang, Feng Xu, Hanghang Tong <br>
+      <span style="color:gray; font-style:italic;">Workshop on Trustworthy Learning on Graphs (TrustLOG-CIKM 2022)</span>
 
 
 
