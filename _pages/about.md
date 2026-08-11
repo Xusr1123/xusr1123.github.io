@@ -82,7 +82,7 @@ My research interest includes neural machine translation and computer vision. I 
       <span style="color:gray; font-style:italic;">ACM International Conference on Web Search and Data Mining (WSDM 2023)</span>
 
 
--<div style="flex:1;">
+- <div style="flex:1;">
       <b style="font-size:17px;">Detecting Topology Attacks against Graph Neural Networks</b>
       <a href="xxx" target="_blank" style="margin-left:8px;">[Paper]</a>
       <a href="xxx" target="_blank">[Code]</a><br>
