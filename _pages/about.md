@@ -43,7 +43,8 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022*, Alibaba Outstanding Intern of the Year (Top 15)
+- *2022*, Best Paper Award Runner-up, TRUSTLOG-CIKM 2022 
 - *2016 - 2026*, Several Academic Scholarships
 
 # 📖 Educations
