@@ -36,6 +36,50 @@ My research interest includes neural machine translation and computer vision. I 
       <span style="color:gray; font-style:italic;">The first workshop on Trustworthy Learning on Graphs (TrustLOG-CIKM 2022)</span> <br>
 </div>
 
+- <div style="flex:1;">
+      <b style="font-size:17px;">Detecting Topology Attacks against Graph Neural Networks</b>
+      <a href="xxx" target="_blank" style="margin-left:8px;">[Paper]</a>
+      <a href="xxx" target="_blank">[Code]</a><br>
+      <b style="text-decoration:underline;">Senrong Xu</b>, Yuan Yao, Liangyue Li, Wei Yang, Feng Xu, Hanghang Tong <br>
+      <span style="color:gray; font-style:italic;">The first workshop on Trustworthy Learning on Graphs (TrustLOG-CIKM 2022)</span> <br>
+</div>
+
+
+- <div style="flex:1;">
+      <b style="font-size:17px;">Detecting Topology Attacks against Graph Neural Networks</b>
+      <a href="xxx" target="_blank" style="margin-left:8px;">[Paper]</a>
+      <a href="xxx" target="_blank">[Code]</a><br>
+      <b style="text-decoration:underline;">Senrong Xu</b>, Yuan Yao, Liangyue Li, Wei Yang, Feng Xu, Hanghang Tong <br>
+      <span style="color:gray; font-style:italic;">The first workshop on Trustworthy Learning on Graphs (TrustLOG-CIKM 2022)</span> <br>
+</div>
+
+
+- <div style="flex:1;">
+      <b style="font-size:17px;">Detecting Topology Attacks against Graph Neural Networks</b>
+      <a href="xxx" target="_blank" style="margin-left:8px;">[Paper]</a>
+      <a href="xxx" target="_blank">[Code]</a><br>
+      <b style="text-decoration:underline;">Senrong Xu</b>, Yuan Yao, Liangyue Li, Wei Yang, Feng Xu, Hanghang Tong <br>
+      <span style="color:gray; font-style:italic;">The first workshop on Trustworthy Learning on Graphs (TrustLOG-CIKM 2022)</span> <br>
+</div>
+
+
+- <div style="flex:1;">
+      <b style="font-size:17px;">Detecting Topology Attacks against Graph Neural Networks</b>
+      <a href="xxx" target="_blank" style="margin-left:8px;">[Paper]</a>
+      <a href="xxx" target="_blank">[Code]</a><br>
+      <b style="text-decoration:underline;">Senrong Xu</b>, Yuan Yao, Liangyue Li, Wei Yang, Feng Xu, Hanghang Tong <br>
+      <span style="color:gray; font-style:italic;">The first workshop on Trustworthy Learning on Graphs (TrustLOG-CIKM 2022)</span> <br>
+</div>
+
+
+- <div style="flex:1;">
+      <b style="font-size:17px;">Detecting Topology Attacks against Graph Neural Networks</b>
+      <a href="xxx" target="_blank" style="margin-left:8px;">[Paper]</a>
+      <a href="xxx" target="_blank">[Code]</a><br>
+      <b style="text-decoration:underline;">Senrong Xu</b>, Yuan Yao, Liangyue Li, Wei Yang, Feng Xu, Hanghang Tong <br>
+      <span style="color:gray; font-style:italic;">The first workshop on Trustworthy Learning on Graphs (TrustLOG-CIKM 2022)</span> <br>
+</div>
+
 
 
 
