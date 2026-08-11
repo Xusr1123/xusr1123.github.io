@@ -44,16 +44,13 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2016 - 2026* Several Academic Scholarships
 
 # 📖 Educations
-- *2023.09 - 2026.04 (now)*, Ph.D. in Computer Science, Nanjing University, Nanjing, China. 
-- *2020.09 - 2023.06*, M.Sc. in Computer Science, Nanjing University, Nanjing, China. 
-- *2016.09 - 2020.06*, B.Sc. in Computer Science, Nanjing University, Nanjing, China. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2023.09 - 2026.04 (now)*, Ph.D. in Computer Science, Nanjing University, Nanjing, China
+- *2020.09 - 2023.06*, M.Sc. in Computer Science, Nanjing University, Nanjing, China
+- *2016.09 - 2020.06*, B.Sc. in Computer Science, Nanjing University, Nanjing, China
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2026.06 - Present*, Algorithm Intern, Douyin Algorithm Team, ByteDance, Shanghai, China
+- *2021.08 - 2022.06*, Research Intern, Fliggy Algorithm Team, Alibaba, Hangzhou, China
