@@ -45,62 +45,56 @@ I am a third-year Ph.D. student in the Department of Computer Science at Nanjing
 
 - <div style="flex:1;">
       <b style="font-size:17px;">The Entropic Overhead of Conformal Correction</b>
-      <a href="xxx" target="_blank" style="margin-left:8px;">[Paper]</a>
-      <a href="xxx" target="_blank">[Code]</a><br>
+      <a href="https://dl.acm.org/doi/10.1145/3770855.3817714" target="_blank" style="margin-left:8px;">[Paper]</a>
+      <a href="https://github.com/Xusr1123/Conformal-Correction" target="_blank">[Code]</a><br>
       <b style="text-decoration:underline;">Senrong Xu</b>, Tianyu Wang, Zenan Li, Yuan Yao, Taolue Chen, Feng Xu, Xiaoxing Ma <br>
       <span style="color:gray; font-style:italic;">ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026)</span>
       
 
 - <div style="flex:1;">
       <b style="font-size:17px;">Fair Conformal Classification via Learning Representation-Based Groups</b>
-      <a href="xxx" target="_blank" style="margin-left:8px;">[Paper]</a>
-      <a href="xxx" target="_blank">[Code]</a><br>
+      <a href="https://arxiv.org/abs/2605.12195" target="_blank" style="margin-left:8px;">[Paper]</a>
+      <a href="https://github.com/Xusr1123/FaReG" target="_blank">[Code]</a><br>
       <b style="text-decoration:underline;">Senrong Xu</b>, Yanke Zhou, Yuhao Tan, Zenan Li, Yuan Yao, Taolue Chen, Feng Xu, Xiaoxing Ma <br>
       <span style="color:gray; font-style:italic;">International Conference on Learning Representations (ICLR 2026)</span>
 
 
 - <div style="flex:1;">
       <b style="font-size:17px;">Robustness Evaluation and Enhancement of LLMs in Code Generation: An Empirical Study</b>
-      <a href="xxx" target="_blank" style="margin-left:8px;">[Paper]</a>
-      <a href="xxx" target="_blank">[Code]</a><br>
+      <a href="xxx" target="_blank" style="margin-left:8px;">[Paper]</a><br>
       Jincheng Liu, <b style="text-decoration:underline;">Senrong Xu</b>, Yuan Yao, Yibin Shen, Yicong Zhao, Xiaorui Zhu, Ping Yu, Feng Xu, Xiaoxing Ma <br>
       <span style="color:gray; font-style:italic;">Empirical Software Engineering (ESE 2026)</span>
 
 
 - <div style="flex:1;">
       <b style="font-size:17px;">Enhancing Graph Anomaly Detection with Contrastive Pre-training and Pseudo-Label Learning</b>
-      <a href="xxx" target="_blank" style="margin-left:8px;">[Paper]</a>
-      <a href="xxx" target="_blank">[Code]</a><br>
+      <a href="https://dl.acm.org/doi/10.1007/s10664-026-10856-w" target="_blank" style="margin-left:8px;">[Paper]</a><br>
       Wei Liu, Yuhe An, <b style="text-decoration:underline;">Senrong Xu</b>, Xingshen Wei, Weiyong Yang <br>
       <span style="color:gray; font-style:italic;">Pacific Rim International Conference on Artificial Intelligence (PRICAI 2025)</span>
 
 
 - <div style="flex:1;">
       <b style="font-size:17px;">On the Heterophily of Program Graphs: A Case Study of Graph-based Type Inference</b>
-      <a href="xxx" target="_blank" style="margin-left:8px;">[Paper]</a>
-      <a href="xxx" target="_blank">[Code]</a><br>
+      <a href="https://dl.acm.org/doi/10.1145/3671016.3671389" target="_blank" style="margin-left:8px;">[Paper]</a><br>
       <b style="text-decoration:underline;">Senrong Xu</b>, Jiamei Shen, Yunfan Li, Yuan Yao, Ping Yu, Feng Xu, Xiaoxing Ma <br>
       <span style="color:gray; font-style:italic;">Asia-Pacific Symposium on Internetware 2024</span>
 
 - <div style="flex:1;">
       <b style="font-size:17px;">On the Vulnerability of Graph Learning-based Collaborative Filtering</b>
-      <a href="xxx" target="_blank" style="margin-left:8px;">[Paper]</a>
-      <a href="xxx" target="_blank">[Code]</a><br>
+      <a href="https://dl.acm.org/doi/10.1145/3572834" target="_blank" style="margin-left:8px;">[Paper]</a><br>
       <b style="text-decoration:underline;">Senrong Xu</b>, Liangyue Li, Zenan Li, Yuan Yao, Feng Xu, Zulong Chen, Quan Lu, Hanghang Tong <br>
       <span style="color:gray; font-style:italic;">ACM Transactions on Information Systems (TOIS 2023)</span>
 
 - <div style="flex:1;">
       <b style="font-size:17px;">MUSENET: Multi-Scenario Learning for Repeat-Aware Personalized Recommendation</b>
-      <a href="xxx" target="_blank" style="margin-left:8px;">[Paper]</a>
-      <a href="xxx" target="_blank">[Code]</a><br>
+      <a href="https://dl.acm.org/doi/10.1145/3539597.3570414" target="_blank" style="margin-left:8px;">[Paper]</a><br>
       <b style="text-decoration:underline;">Senrong Xu</b>, Liangyue Li, Yuan Yao, Zulong Chen, Han Wu, Quan Lu, Hanghang Tong <br>
       <span style="color:gray; font-style:italic;">ACM International Conference on Web Search and Data Mining (WSDM 2023)</span>
 
 
 - <div style="flex:1;">
       <b style="font-size:17px;">Detecting Topology Attacks against Graph Neural Networks</b>
-      <a href="xxx" target="_blank" style="margin-left:8px;">[Paper]</a>
-      <a href="xxx" target="_blank">[Code]</a><br>
+      <a href="https://arxiv.org/abs/2204.10072" target="_blank" style="margin-left:8px;">[Paper]</a><br>
       <b style="text-decoration:underline;">Senrong Xu</b>, Yuan Yao, Liangyue Li, Wei Yang, Feng Xu, Hanghang Tong <br>
       <span style="color:gray; font-style:italic;">Workshop on Trustworthy Learning on Graphs (TrustLOG-CIKM 2022)</span>
 
