@@ -36,8 +36,8 @@ I am a third-year Ph.D. student in the Department of Computer Science at Nanjing
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.05*: &nbsp;🎉 One paper (about conformal prediction) accepted at ICLR 2026. 
+- *2026.01*: &nbsp;🎉 One paper (about conformal prediction) accepted at ICLR 2026. 
 
 # 📝 Publications 
 
