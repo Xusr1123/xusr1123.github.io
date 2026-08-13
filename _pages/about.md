@@ -36,14 +36,11 @@ I am a third-year Ph.D. student in the Department of Computer Science at Nanjing
 
 
 # 🔥 News
+- *2026.06*: I joined the Douyin Recommendation Algorithm Team at ByteDance as an Algorithm Intern.
 - *2026.05*: &nbsp;🎉 One paper (about conformal prediction) accepted at KDD 2026. 
 - *2026.01*: &nbsp;🎉 One paper (about conformal prediction) accepted at ICLR 2026.
-- *2026.01*: &nbsp;🎉 One paper (about conformal prediction) accepted at ESE 2026.
-- *2026.01*: &nbsp;🎉 One paper (about conformal prediction) accepted at TOIS 2023.
-- *2026.01*: &nbsp;🎉 One paper (about conformal prediction) accepted at WSDM 2023.
-- *2026.01*: &nbsp;🎉 One paper (about conformal prediction) accepted at TrustLOG-CIKM 2022 .
 
-  
+ 
 # 📝 Publications 
 
 - <div style="flex:1;">
