@@ -32,7 +32,7 @@ redirect_from:
 
 
 # About Me
-Hello! I’m a second-year M.S. student at **Nanjing University of Information Science and Technology (NUIST)**, under the supervision of Prof. [Yuan Zhou](https://faculty.nuist.edu.cn/zhouyuan/zh_CN/zhym/43346/list/index.htm). I am closely working with [Haoran Duan](https://haoranduan.com/) in Tsinghua University. My research interests include **image and 3D generation**, **multimodal large models**, and **video understanding**.
+I am a third-year Ph.D. student in the Department of Computer Science at Nanjing University, advised by Associate Prof. Yuan Yao, Prof. Feng Xu, and Prof. Xiaoxing Ma. My research interests primarily include model uncertainty calibration, large language model post-training, and AI for software engineering (AI4SE). I am broadly interested in building reliable and trustworthy AI systems that bridge the gap between machine learning and software engineering.
 
 
 # 🔥 News
