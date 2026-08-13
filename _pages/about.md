@@ -32,7 +32,7 @@ redirect_from:
 
 
 # About Me
-I am a third-year Ph.D. student in the Department of Computer Science at Nanjing University, advised by Associate Prof. Yuan Yao, Prof. Feng Xu, and Prof. Xiaoxing Ma. My research interests primarily include model uncertainty calibration, large language model post-training, and AI for software engineering (AI4SE). I am broadly interested in building reliable and trustworthy AI systems that bridge the gap between machine learning and software engineering.
+I am a third-year Ph.D. student in the Department of Computer Science at Nanjing University, advised by Associate Prof. Yuan Yao, Prof. Feng Xu, and Prof. Xiaoxing Ma. My research interests primarily include model uncertainty quantification, large language model post-training, and AI for software engineering (AI4SE). I am broadly interested in building reliable and trustworthy AI systems that bridge the gap between machine learning and software engineering.
 
 
 # 🔥 News
