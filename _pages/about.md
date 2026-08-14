@@ -61,7 +61,8 @@ I am a third-year Ph.D. student in the Department of Computer Science at Nanjing
 
 - <div style="flex:1;">
       <b style="font-size:17px;">Robustness Evaluation and Enhancement of LLMs in Code Generation: An Empirical Study</b>
-      <a href="https://dl.acm.org/doi/10.1007/s10664-026-10856-w" target="_blank" style="margin-left:8px;">[Paper]</a><br>
+      <a href="https://dl.acm.org/doi/10.1007/s10664-026-10856-w" target="_blank" style="margin-left:8px;">[Paper]</a>
+      <a href="https://github.com/XiaoFaJiang/llm_code_robustness" target="_blank">[Code]</a><br>
       Jincheng Liu, <b style="text-decoration:underline;">Senrong Xu</b>, Yuan Yao, Yibin Shen, Yicong Zhao, Xiaorui Zhu, Ping Yu, Feng Xu, Xiaoxing Ma <br>
       <span style="color:gray; font-style:italic;">Empirical Software Engineering (ESE 2026)</span>
 
