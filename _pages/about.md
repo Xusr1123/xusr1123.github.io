@@ -69,7 +69,7 @@ I am a third-year Ph.D. student in the Department of Computer Science at Nanjing
 
 - <div style="flex:1;">
       <b style="font-size:17px;">Enhancing Graph Anomaly Detection with Contrastive Pre-training and Pseudo-Label Learning</b>
-      <a href="https://dl.acm.org/doi/10.1007/s10664-026-10856-w" target="_blank" style="margin-left:8px;">[Paper]</a><br>
+      <a href="https://dl.acm.org/doi/abs/10.1007/978-981-95-7075-1_42" target="_blank" style="margin-left:8px;">[Paper]</a><br>
       Wei Liu, Yuhe An, <b style="text-decoration:underline;">Senrong Xu</b>, Xingshen Wei, Weiyong Yang <br>
       <span style="color:gray; font-style:italic;">Pacific Rim International Conference on Artificial Intelligence (PRICAI 2025)</span>
 
